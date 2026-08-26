@@ -39,8 +39,8 @@ https://img.shields.io/badge/Render-ready-success
 1. Clone the repository
 
 ```bash
-git clone https://github.com/cyber-punk-h/icmr-hitek-search.git
-cd icmr-hitek-search
+git clone https://github.com/cyber-punk-h/Icmr-and-hitek.git
+cd Icmr-and-hitek
 ```
 
 2. Create a virtual environment (optional but recommended)
